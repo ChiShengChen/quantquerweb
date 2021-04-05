@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ms57rd &#8211; 量維科技</title>
+	<atom:link href="http://localhost/web_dev/author/ms57rd/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/ChiShengChen/quantquerweb</link>
+	<description>人工智慧客製化解決方案</description>
+	<lastBuildDate>Sun, 04 Apr 2021 01:44:16 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>測試</title>
+		<link>http://github.com/ChiShengChen/quantquerweb/2021/04/04/26/</link>
+					<comments>http://github.com/ChiShengChen/quantquerweb/2021/04/04/26/#respond</comments>
+		
+		<dc:creator><![CDATA[ms57rd]]></dc:creator>
+		<pubDate>Sun, 04 Apr 2021 01:40:19 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">http://github.com/ChiShengChen/quantquerweb/?p=26</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="960" height="717" src="http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/scith.jpg" alt="" class="wp-image-27" srcset="http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/scith.jpg 960w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/scith-300x224.jpg 300w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/scith-768x574.jpg 768w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/scith-200x149.jpg 200w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/scith-690x515.jpg 690w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="574" src="http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/27164431_1616230661805279_291520667686131139_o-1024x574.jpg" alt="" class="wp-image-28" srcset="http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/27164431_1616230661805279_291520667686131139_o-1024x574.jpg 1024w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/27164431_1616230661805279_291520667686131139_o-300x168.jpg 300w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/27164431_1616230661805279_291520667686131139_o-768x430.jpg 768w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/27164431_1616230661805279_291520667686131139_o-200x112.jpg 200w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/27164431_1616230661805279_291520667686131139_o-690x387.jpg 690w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/27164431_1616230661805279_291520667686131139_o.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="574" src="http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/720lab-1024x574.jpg" alt="" class="wp-image-29" srcset="http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/720lab-1024x574.jpg 1024w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/720lab-300x168.jpg 300w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/720lab-768x430.jpg 768w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/720lab-200x112.jpg 200w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/720lab-690x387.jpg 690w, http://github.com/ChiShengChen/quantquerweb/wp-content/uploads/2021/04/720lab.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/ChiShengChen/quantquerweb/2021/04/04/26/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>網站第一篇文章</title>
+		<link>http://github.com/ChiShengChen/quantquerweb/2021/04/04/hello-world/</link>
+					<comments>http://github.com/ChiShengChen/quantquerweb/2021/04/04/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[ms57rd]]></dc:creator>
+		<pubDate>Sun, 04 Apr 2021 00:57:10 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">http://github.com/ChiShengChen/quantquerweb/?p=1</guid>
+
+					<description><![CDATA[歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！]]></description>
+										<content:encoded><![CDATA[
+<p>歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/ChiShengChen/quantquerweb/2021/04/04/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
